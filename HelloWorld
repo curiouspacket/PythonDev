@@ -1,0 +1,8 @@
+#!/user/bin/python3.6
+
+
+def Hello_World(str):
+	return print(str);
+
+Hello_World('Hello!!!!!!!!!!!!!!!')
+
